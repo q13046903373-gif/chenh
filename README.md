@@ -1,4 +1,3 @@
-# chenh
 #!name=Spotify Enhanced
 #!desc=Spotify页面兼容优化版 | Loon
 #!openUrl=https://github.com/app2smile/rules
